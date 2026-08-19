@@ -1,0 +1,6 @@
+n=[11,17,23,35,42,51,64]
+for num in n:
+    if num%2!=0:
+        continue
+    print("First Even number:",num)
+    break
