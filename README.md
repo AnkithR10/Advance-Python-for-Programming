@@ -4,14 +4,46 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 
 ## Repository Contents
 
+<!-- BEGIN GENERATED CONTENTS -->
 ```text
 .
-├── Assignments/       Assignment notebooks
-├── Class/             Classroom demonstrations and notes
-└── Lab/               Practical exercises and scenario-based programs
-	 ├── Lab 2/         Loops, control flow, patterns, tables, and matrices
-	 └── Lab 3/         Functions, lambda expressions, Fibonacci, and scenarios
+├── .github/
+│   └── workflows/
+│       └── update-readme.yml
+├── Assignments/
+│   └── Assignment 1.ipynb
+├── Class/
+│   ├── Class 14-8-26.ipynb
+│   ├── Class 18-8-26.ipynb
+│   ├── Class 19-9-26(extra).ipynb
+│   ├── Class 7-8-26.ipynb
+│   └── Online Food Delivery System Senarios.ipynb
+├── Lab/
+│   ├── Lab 2/
+│   │   ├── #Pascal's Triangle.py
+│   │   ├── Combining break and continnue
+│   │   ├── Nested Loop - Matrix.py
+│   │   ├── Pyramid.py
+│   │   ├── Table.py
+│   │   └── While + Break
+│   ├── Lab 3/
+│   │   ├── fibonocci.py
+│   │   ├── Lab 3(20-8-26).ipynb
+│   │   ├── Lambda_2.py
+│   │   ├── lambda_3.py
+│   │   ├── Lambda_Function.py
+│   │   ├── Scenario 2- Student Performance analyzer.ipynb
+│   │   ├── Senario 1-Electricity Bill calculator.ipynb
+│   │   └── sum_of_n_numbers.py
+│   └── Python Lab 1(06-08-26).ipynb
+└── scripts/
+    └── update_readme.py
 ```
+<!-- END GENERATED CONTENTS -->
+
+The contents tree above is generated from the repository files. Run
+`python scripts/update_readme.py` after adding or removing files. GitHub Actions
+also runs the updater automatically on every push to `main`.
 
 ### Assignments
 
