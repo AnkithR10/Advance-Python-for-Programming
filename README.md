@@ -8,25 +8,32 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 ```text
 .
 ├── .github/
-│   └── workflows/
-│       └── update-readme.yml
+│   ├── workflows/
+│   │   ├── desktop.ini
+│   │   └── update-readme.yml
+│   └── desktop.ini
 ├── Assignments/
-│   └── Assignment 1.ipynb
+│   ├── Assignment 1.ipynb
+│   └── desktop.ini
 ├── Class/
 │   ├── Class 14-8-26.ipynb
 │   ├── Class 18-8-26.ipynb
 │   ├── Class 19-9-26(extra).ipynb
+│   ├── Class 25-8-26.ipynb
 │   ├── Class 7-8-26.ipynb
+│   ├── desktop.ini
 │   └── Online Food Delivery System Senarios.ipynb
 ├── Lab/
 │   ├── Lab 2/
 │   │   ├── #Pascal's Triangle.py
 │   │   ├── Combining break and continnue
+│   │   ├── desktop.ini
 │   │   ├── Nested Loop - Matrix.py
 │   │   ├── Pyramid.py
 │   │   ├── Table.py
 │   │   └── While + Break
 │   ├── Lab 3/
+│   │   ├── desktop.ini
 │   │   ├── fibonocci.py
 │   │   ├── Lab 3(20-8-26).ipynb
 │   │   ├── Lambda_2.py
@@ -35,9 +42,12 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── Scenario 2- Student Performance analyzer.ipynb
 │   │   ├── Senario 1-Electricity Bill calculator.ipynb
 │   │   └── sum_of_n_numbers.py
+│   ├── desktop.ini
 │   └── Python Lab 1(06-08-26).ipynb
-└── scripts/
-    └── update_readme.py
+├── scripts/
+│   ├── desktop.ini
+│   └── update_readme.py
+└── desktop.ini
 ```
 <!-- END GENERATED CONTENTS -->
 
