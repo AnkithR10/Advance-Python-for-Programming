@@ -16,10 +16,16 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   ├── Assignment 1.ipynb
 │   └── desktop.ini
 ├── Class/
+│   ├── Class 25-8-26/
+│   │   ├── Arithmetic_alias.py
+│   │   ├── Arithmetic_module.py
+│   │   ├── Arthmetic_import.py
+│   │   ├── calculator.py
+│   │   ├── Class 25-8-26.ipynb
+│   │   └── desktop.ini
 │   ├── Class 14-8-26.ipynb
 │   ├── Class 18-8-26.ipynb
 │   ├── Class 19-9-26(extra).ipynb
-│   ├── Class 25-8-26.ipynb
 │   ├── Class 7-8-26.ipynb
 │   ├── desktop.ini
 │   └── Online Food Delivery System Senarios.ipynb
