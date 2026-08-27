@@ -48,6 +48,8 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── Scenario 2- Student Performance analyzer.ipynb
 │   │   ├── Senario 1-Electricity Bill calculator.ipynb
 │   │   └── sum_of_n_numbers.py
+│   ├── Lab 4/
+│   │   └── desktop.ini
 │   ├── desktop.ini
 │   └── Python Lab 1(06-08-26).ipynb
 ├── scripts/
