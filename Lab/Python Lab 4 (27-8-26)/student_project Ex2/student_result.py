@@ -1,0 +1,19 @@
+def calculate_total(marks):
+    return sum(marks)
+def calculate_percent(marks):
+    return sum(marks)/len(marks)
+def calculate_grade(percent):
+    if percent>=95:
+        return "O"
+    elif percent>=90:
+        return "A+"
+    elif percent>=80:
+        return "A"
+    elif percent>=70:
+        return "B+"
+    elif percent>=60:
+        return "B"
+    elif percent>=50:
+        return "P"
+    else:
+        return "F"
