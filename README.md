@@ -23,8 +23,9 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── calculator.py
 │   │   ├── Class 25-8-26.ipynb
 │   │   └── desktop.ini
-│   ├── Class 28-8-26/
+│   ├── Class 28&29-8-26/
 │   │   ├── Class 28-8-26.ipynb
+│   │   ├── Class 29-08-26.ipynb
 │   │   ├── desktop.ini
 │   │   └── student.txt
 │   ├── Class 14-8-26.ipynb
