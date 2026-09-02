@@ -1,6 +1,6 @@
 import calculator
-a=float(input("Enter first number:"))#18
-b=float(input("Enter second number:"))#33
+a=float(input("Enter first number:")) 
+b=float(input("Enter second number:"))  
 print("\nAddition:",calculator.add(a,b))
 print("\nSubtraction:",calculator.subtract(a,b))
 print("\nMultiplication:",calculator.multiply(a,b))
