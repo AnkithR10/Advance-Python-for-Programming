@@ -23,6 +23,10 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── calculator.py
 │   │   ├── Class 25-8-26.ipynb
 │   │   └── desktop.ini
+│   ├── Class 28-8-26/
+│   │   ├── Class 28-8-26.ipynb
+│   │   ├── desktop.ini
+│   │   └── student.txt
 │   ├── Class 14-8-26.ipynb
 │   ├── Class 18-8-26.ipynb
 │   ├── Class 19-9-26(extra).ipynb
@@ -48,8 +52,29 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── Scenario 2- Student Performance analyzer.ipynb
 │   │   ├── Senario 1-Electricity Bill calculator.ipynb
 │   │   └── sum_of_n_numbers.py
-│   ├── Lab 4/
-│   │   └── desktop.ini
+│   ├── Python Lab 4 (27-8-26)/
+│   │   ├── calculator_project/
+│   │   │   ├── calculator.py
+│   │   │   ├── desktop.ini
+│   │   │   ├── EX 1 Scientific Calculator.txt
+│   │   │   └── main.py
+│   │   ├── Employee Management Ex6/
+│   │   │   ├── desktop.ini
+│   │   │   └── empolyee.py
+│   │   ├── student_project Ex2/
+│   │   │   ├── desktop.ini
+│   │   │   ├── main.py
+│   │   │   └── student_result.py
+│   │   ├── University/
+│   │   │   ├── college.py
+│   │   │   ├── desktop.ini
+│   │   │   ├── result.py
+│   │   │   └── student.py
+│   │   ├── AttendanceDateTrackerEx5.py
+│   │   ├── desktop.ini
+│   │   ├── main.py
+│   │   ├── Random Quiz generator Ex 3.py
+│   │   └── Student Statistical Analyzer Ex4.py
 │   ├── desktop.ini
 │   └── Python Lab 1(06-08-26).ipynb
 ├── scripts/
