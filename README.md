@@ -26,8 +26,10 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   ├── Class 28&29-8-26/
 │   │   ├── Class 28-8-26.ipynb
 │   │   ├── Class 29-08-26.ipynb
+│   │   ├── Class 5-9-26.ipynb
 │   │   ├── desktop.ini
 │   │   └── student.txt
+│   ├── Class 04-09-26.ipynb
 │   ├── Class 14-8-26.ipynb
 │   ├── Class 18-8-26.ipynb
 │   ├── Class 19-9-26(extra).ipynb
