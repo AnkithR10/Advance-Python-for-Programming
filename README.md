@@ -39,7 +39,8 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── Class 04-09-26.ipynb
 │   │   ├── Class 5-9-26.ipynb
 │   │   ├── Class 8-9-26.ipynb
-│   │   └── desktop.ini
+│   │   ├── desktop.ini
+│   │   └── traffic_log.txt
 │   └── desktop.ini
 ├── Lab/
 │   ├── Lab 2/
