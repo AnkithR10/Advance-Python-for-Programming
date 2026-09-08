@@ -1,0 +1,5 @@
+2026-09-08 11:49:21,018 - Market Street signal: {'NS': 'Green', 'EW': 'Red'}
+2026-09-08 11:49:21,020 - Market Street signal: {'NS': 'Yellow', 'EW': 'Red'}
+2026-09-08 11:49:21,020 - Market Street signal: {'NS': 'Red', 'EW': 'Green'}
+2026-09-08 11:49:21,021 - Market Street signal: {'NS': 'Red', 'EW': 'Yellow'}
+2026-09-08 11:52:01,386 - NS signal changed: {'NS': 'Red', 'EW': 'Ew'}
