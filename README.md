@@ -16,27 +16,31 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   ├── Assignment 1.ipynb
 │   └── desktop.ini
 ├── Class/
-│   ├── Class 25-8-26/
-│   │   ├── Arithmetic_alias.py
-│   │   ├── Arithmetic_module.py
-│   │   ├── Arthmetic_import.py
-│   │   ├── calculator.py
-│   │   ├── Class 25-8-26.ipynb
-│   │   └── desktop.ini
-│   ├── Class 28&29-8-26/
-│   │   ├── Class 28-8-26.ipynb
-│   │   ├── Class 29-08-26.ipynb
+│   ├── August (8)/
+│   │   ├── Class 25-8-26/
+│   │   │   ├── Arithmetic_alias.py
+│   │   │   ├── Arithmetic_module.py
+│   │   │   ├── Arthmetic_import.py
+│   │   │   ├── calculator.py
+│   │   │   ├── Class 25-8-26.ipynb
+│   │   │   └── desktop.ini
+│   │   ├── Class 28&29-8-26/
+│   │   │   ├── Class 28-8-26.ipynb
+│   │   │   ├── Class 29-08-26.ipynb
+│   │   │   ├── desktop.ini
+│   │   │   └── student.txt
+│   │   ├── Class 14-8-26.ipynb
+│   │   ├── Class 18-8-26.ipynb
+│   │   ├── Class 19-8-26(extra).ipynb
+│   │   ├── Class 7-8-26.ipynb
 │   │   ├── desktop.ini
-│   │   └── student.txt
-│   ├── Class 04-09-26.ipynb
-│   ├── Class 14-8-26.ipynb
-│   ├── Class 18-8-26.ipynb
-│   ├── Class 19-8-26(extra).ipynb
-│   ├── Class 5-9-26.ipynb
-│   ├── Class 7-8-26.ipynb
-│   ├── Class 8-9-26.ipynb
-│   ├── desktop.ini
-│   └── Online Food Delivery System Senarios.ipynb
+│   │   └── Online Food Delivery System Senarios.ipynb
+│   ├── September(9)/
+│   │   ├── Class 04-09-26.ipynb
+│   │   ├── Class 5-9-26.ipynb
+│   │   ├── Class 8-9-26.ipynb
+│   │   └── desktop.ini
+│   └── desktop.ini
 ├── Lab/
 │   ├── Lab 2/
 │   │   ├── #Pascal's Triangle.py
@@ -84,6 +88,7 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 ├── scripts/
 │   ├── desktop.ini
 │   └── update_readme.py
+├── .gitignore
 └── desktop.ini
 ```
 <!-- END GENERATED CONTENTS -->
