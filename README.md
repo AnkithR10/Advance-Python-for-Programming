@@ -85,6 +85,7 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── Random Quiz generator Ex 3.py
 │   │   └── Student Statistical Analyzer Ex4.py
 │   ├── desktop.ini
+│   ├── Lab5(3-9-26).ipynb
 │   └── Python Lab 1(06-08-26).ipynb
 ├── scripts/
 │   ├── desktop.ini
