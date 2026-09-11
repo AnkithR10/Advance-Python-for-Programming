@@ -37,6 +37,7 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   └── Online Food Delivery System Senarios.ipynb
 │   ├── September(9)/
 │   │   ├── Class 04-09-26.ipynb
+│   │   ├── Class 11-09-26.ipynb
 │   │   ├── Class 5-9-26.ipynb
 │   │   ├── Class 8-9-26.ipynb
 │   │   ├── desktop.ini
@@ -84,6 +85,13 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── main.py
 │   │   ├── Random Quiz generator Ex 3.py
 │   │   └── Student Statistical Analyzer Ex4.py
+│   ├── Python Lab 6 (10-9-26)/
+│   │   ├── breakpoint.py
+│   │   ├── desktop.ini
+│   │   ├── MyProgramLog.txt
+│   │   ├── Python Lab 6(10-9-26).ipynb
+│   │   └── Senario Question.txt
+│   ├── Debugging.ipynb
 │   ├── desktop.ini
 │   ├── Lab5(3-9-26).ipynb
 │   └── Python Lab 1(06-08-26).ipynb
