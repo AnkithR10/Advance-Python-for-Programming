@@ -1,0 +1,7 @@
+boxprint(symbol,width,heights)
+
+ex:- boxprint(*,5,3)
+*****
+*   *
+*****
+if width<0 can't call the method so raise a exception
