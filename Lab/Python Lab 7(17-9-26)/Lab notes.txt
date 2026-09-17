@@ -1,0 +1,81 @@
+Iterators and Generators
+An iterator is an object that lets us access elements of a collection one at a time. Collections such as lists, tuples, strings, and dictionaries are iterable objects.
+Python uses two important methods for iteration:
+- __iter__() creates and returns an iterator object.
+- __next__() returns the next value from the iterator.
+Example:
+numbers = [10, 20, 30]
+
+itr = iter(numbers)
+
+print(next(itr))  # 10
+print(next(itr))  # 20
+print(next(itr))  # 30
+If next(itr) is called after all elements have been accessed, Python raises a StopIteration exception.
+print(next(itr))  # StopIteration
+A for loop handles this automatically: it repeatedly calls iter() and next() internally, and stops when StopIteration occurs.
+for number in numbers:
+    print(number)
+Iterable vs. Iterator
+Iterable	Iterator
+A collection that can be looped over, such as a list or tuple.	An object that keeps track of the current position during iteration.
+Can be used multiple times.	Usually consumed once; after reaching the end, it must be recreated.
+Used with iter() to create an iterator.	Used with next() to retrieve values.
+
+
+Think of an iterable as a book and an iterator as a bookmark. The bookmark tracks the current page, while next() reads the item at that position and moves the bookmark forward.
+Custom Iterator Example
+class Countdown:
+    def __init__(self, start):
+        self.count = start
+
+    def __iter__(self):
+        return self
+
+    def __next__(self):
+        if self.count <= 0:
+            raise StopIteration
+
+        current = self.count
+        self.count -= 1
+        return current
+Usage:
+timer = Countdown(4)
+
+print(next(timer))  # 4
+print(next(timer))  # 3
+
+for value in timer:
+    print(value)    # 2, 1
+The iterator remembers its current state. Since 4 and 3 were already retrieved, the loop continues from 2.
+Nested Loop Example
+items = ["A", "B"]
+
+for x in items:
+    for y in items:
+        print(x + y)
+Output:
+AA
+AB
+BA
+BB
+Each for loop creates its own independent iterator. The inner loop restarts for every iteration of the outer loop.
+Generators
+Generators are a memory-efficient way to create iterators. Instead of calculating and storing every value in memory at once, they produce one value only when it is needed. This is called lazy evaluation.
+A generator function looks like a normal function, but uses yield instead of return.
+def countdown(start):
+    while start > 0:
+        yield start
+        start -= 1
+Usage:
+for value in countdown(4):
+    print(value)
+Output:
+4
+3
+2
+1
+yield pauses the function, saves its current state, and resumes from that same point when the next value is requested.
+
+container module:imp function counter,defaultdict,deque,namedtuple
+Functools:Offer higher-order
