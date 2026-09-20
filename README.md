@@ -43,7 +43,8 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── Class 8-9-26.ipynb
 │   │   ├── desktop.ini
 │   │   └── traffic_log.txt
-│   └── desktop.ini
+│   ├── desktop.ini
+│   └── Till mid term.ipynb
 ├── Lab/
 │   ├── Lab 2/
 │   │   ├── #Pascal's Triangle.py
