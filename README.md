@@ -92,6 +92,10 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── MyProgramLog.txt
 │   │   ├── Python Lab 6(10-9-26).ipynb
 │   │   └── Senario Question.txt
+│   ├── Python Lab 7(17-9-26)/
+│   │   ├── desktop.ini
+│   │   ├── Lab 7(17-9-26).ipynb
+│   │   └── Lab notes.txt
 │   ├── Debugging.ipynb
 │   ├── desktop.ini
 │   ├── Lab5(3-9-26).ipynb
