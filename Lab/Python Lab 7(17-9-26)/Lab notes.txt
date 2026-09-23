@@ -60,6 +60,8 @@ AB
 BA
 BB
 Each for loop creates its own independent iterator. The inner loop restarts for every iteration of the outer loop.
+
+
 Generators
 Generators are a memory-efficient way to create iterators. Instead of calculating and storing every value in memory at once, they produce one value only when it is needed. This is called lazy evaluation.
 A generator function looks like a normal function, but uses yield instead of return.
