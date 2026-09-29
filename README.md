@@ -14,6 +14,8 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   └── desktop.ini
 ├── Assignments/
 │   ├── Assignment 1.ipynb
+│   ├── assignment on modules.ipynb
+│   ├── Assignment on modules.pdf
 │   └── desktop.ini
 ├── Class/
 │   ├── August (8)/
