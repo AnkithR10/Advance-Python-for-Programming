@@ -104,7 +104,8 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   ├── Debugging.ipynb
 │   ├── desktop.ini
 │   ├── Lab5(3-9-26).ipynb
-│   └── Python Lab 1(06-08-26).ipynb
+│   ├── Python Lab 1(06-08-26).ipynb
+│   └── Python Lab 8(24-9-26) (1).ipynb
 ├── scripts/
 │   ├── desktop.ini
 │   └── update_readme.py
