@@ -15,7 +15,8 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 ├── Assignments/
 │   ├── Assignment 1.ipynb
 │   ├── assignment on modules.ipynb
-│   └── desktop.ini
+│   ├── desktop.ini
+│   └── Lab 9 assignment.ipynb
 ├── Class/
 │   ├── August (8)/
 │   │   ├── Class 25-8-26/
@@ -37,6 +38,7 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── desktop.ini
 │   │   └── Online Food Delivery System Senarios.ipynb
 │   ├── October(10)/
+│   │   ├── Class 14-10-25.ipynb
 │   │   └── desktop.ini
 │   ├── September(9)/
 │   │   ├── Class 04-09-26.ipynb
@@ -106,7 +108,8 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   ├── desktop.ini
 │   ├── Lab5(3-9-26).ipynb
 │   ├── Python Lab 1(06-08-26).ipynb
-│   └── Python Lab 8(24-9-26).ipynb
+│   ├── Python Lab 8(24-9-26).ipynb
+│   └── Python Lab 9 (1-1026).ipynb
 ├── scripts/
 │   ├── desktop.ini
 │   └── update_readme.py
