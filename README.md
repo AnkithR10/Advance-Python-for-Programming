@@ -42,6 +42,7 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── Class 15-10-26.ipynb
 │   │   ├── Class 16-10-26.ipynb
 │   │   ├── Class 17-10-26.ipynb
+│   │   ├── Class 19-10-26.ipynb
 │   │   └── desktop.ini
 │   ├── September(9)/
 │   │   ├── Class 04-09-26.ipynb
