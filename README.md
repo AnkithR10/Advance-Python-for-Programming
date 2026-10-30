@@ -38,6 +38,7 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── desktop.ini
 │   │   └── Online Food Delivery System Senarios.ipynb
 │   ├── October(10)/
+│   │   ├── Adv_OOPs.ipynb
 │   │   ├── Class 14-10-25.ipynb
 │   │   ├── Class 15-10-26.ipynb
 │   │   ├── Class 16-10-26.ipynb
@@ -46,7 +47,9 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── Class 20-10-26.ipynb
 │   │   ├── Class 24-10-26.ipynb
 │   │   ├── Class 27-10-26.ipynb
-│   │   └── desktop.ini
+│   │   ├── Class 28-10-26.ipynb
+│   │   ├── desktop.ini
+│   │   └── File and Text Processing.ipynb
 │   ├── September(9)/
 │   │   ├── Class 04-09-26.ipynb
 │   │   ├── Class 11-09-26 OOPs.ipynb
@@ -117,6 +120,7 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   ├── Python Lab 1(06-08-26).ipynb
 │   ├── Python Lab 10(8-10-26).ipynb
 │   ├── Python Lab 11(15-10-26).ipynb
+│   ├── Python Lab 13(22-10-26).ipynb
 │   ├── Python Lab 5(3-9-26).ipynb
 │   ├── Python Lab 8(24-9-26).ipynb
 │   └── Python Lab 9 (1-1026).ipynb
