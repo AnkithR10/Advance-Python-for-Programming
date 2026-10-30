@@ -1,0 +1,11 @@
+20206-10-24 09:15:23 INFO login successfull: id=101
+Invalid log 
+20206-10-24 09:15:23 WARNING Disk space low
+20206-10-24 09:15:02 ERROR Database connection failed
+20206-10-24 09:15:13 DEBUB Database exist
+20206/10/24 09:15:25 INFO Incorrect entry
+20206-10-24 09:15:26 INFO Correct dentry
+20206-10-24 09:15:27 INFO connection restored
+20206-10-24 09:15:28 ERROR File not found
+20206-10-24 09:15:29 CRITICAL Server not responding
+20206-10-24 09:15:30 INFO User logout successfull
