@@ -48,6 +48,7 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── Class 24-10-26.ipynb
 │   │   ├── Class 27-10-26.ipynb
 │   │   ├── Class 28-10-26.ipynb
+│   │   ├── Class 30-10-26.ipynb
 │   │   ├── desktop.ini
 │   │   └── File and Text Processing.ipynb
 │   ├── September(9)/
@@ -81,6 +82,11 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── Scenario 2- Student Performance analyzer.ipynb
 │   │   ├── Senario 1-Electricity Bill calculator.ipynb
 │   │   └── sum_of_n_numbers.py
+│   ├── Python Lab 14(29-10-26)/
+│   │   ├── application.log
+│   │   ├── desktop.ini
+│   │   ├── log_report.txt
+│   │   └── Python Lab 14(29-10-26).ipynb
 │   ├── Python Lab 4 (27-8-26)/
 │   │   ├── calculator_project/
 │   │   │   ├── calculator.py
