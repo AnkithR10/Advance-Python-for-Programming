@@ -40,7 +40,8 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   │   ├── Class 28-8-26.ipynb
 │   │   │   ├── Class 29-08-26.ipynb
 │   │   │   ├── desktop.ini
-│   │   │   └── student.txt
+│   │   │   ├── student.txt
+│   │   │   └── student_records.txt
 │   │   ├── Class 14-8-26.ipynb
 │   │   ├── Class 18-8-26.ipynb
 │   │   ├── Class 19-8-26(extra).ipynb
