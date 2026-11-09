@@ -13,10 +13,20 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   └── update-readme.yml
 │   └── desktop.ini
 ├── Assignments/
+│   ├── My_Project/
+│   │   ├── assignments/
+│   │   │   ├── task1/
+│   │   │   │   ├── desktop.ini
+│   │   │   │   └── sample.py
+│   │   │   └── desktop.ini
+│   │   └── desktop.ini
+│   ├── APP_Assignment(7-11-26).ipynb
 │   ├── Assignment 1.ipynb
 │   ├── assignment on modules.ipynb
+│   ├── cleaned_data.json
 │   ├── desktop.ini
-│   └── Lab 9 assignment.ipynb
+│   ├── Lab 9 assignment.ipynb
+│   └── student_records.txt
 ├── Class/
 │   ├── August (8)/
 │   │   ├── Class 25-8-26/
