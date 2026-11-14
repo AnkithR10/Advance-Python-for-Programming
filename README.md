@@ -98,6 +98,11 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── desktop.ini
 │   │   ├── log_report.txt
 │   │   └── Python Lab 14(29-10-26).ipynb
+│   ├── Python Lab 15(12-11-26)/
+│   │   ├── calc.py
+│   │   ├── desktop.ini
+│   │   ├── nontestable_code_to_testable_code.py
+│   │   └── nontestable_to_testable_code_1.py
 │   ├── Python Lab 4 (27-8-26)/
 │   │   ├── calculator_project/
 │   │   │   ├── calculator.py
