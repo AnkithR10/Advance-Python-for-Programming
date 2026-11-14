@@ -48,6 +48,9 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── Class 7-8-26.ipynb
 │   │   ├── desktop.ini
 │   │   └── Online Food Delivery System Senarios.ipynb
+│   ├── November(11)/
+│   │   ├── Class 14-11-26.ipynb
+│   │   └── desktop.ini
 │   ├── October(10)/
 │   │   ├── Adv_OOPs.ipynb
 │   │   ├── Class 14-10-25.ipynb
