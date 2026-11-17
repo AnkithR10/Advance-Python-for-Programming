@@ -12,6 +12,52 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── desktop.ini
 │   │   └── update-readme.yml
 │   └── desktop.ini
+├── APP/
+│   ├── university/
+│   │   ├── _init_.py
+│   │   ├── desktop.ini
+│   │   ├── result.py
+│   │   └── student.py
+│   ├── Analyze_student.py
+│   ├── Arith_Calculator.py
+│   ├── Arthimatic.py
+│   ├── Bank.py
+│   ├── calculator.py
+│   ├── cmdlinarg.py
+│   ├── cointoss.py
+│   ├── college.py
+│   ├── College_loc.py
+│   ├── Create.py
+│   ├── demo.py
+│   ├── desktop.ini
+│   ├── employee.py
+│   ├── Fobject.py
+│   ├── fread.py
+│   ├── fstuntMngt.py
+│   ├── heads.py
+│   ├── IdenticalWeight.py
+│   ├── LinearSearch.py
+│   ├── Looping.py
+│   ├── main.py
+│   ├── marks.txt
+│   ├── MenuDrivenCalculator.py
+│   ├── morpho.py
+│   ├── Num_Analysis.py
+│   ├── num_str.py
+│   ├── online_exam.py
+│   ├── Patterns.py
+│   ├── Prime.py
+│   ├── sctfc_cal.py
+│   ├── stud.py
+│   ├── student_analyzer.py
+│   ├── Student_Info.py
+│   ├── student_records.txt
+│   ├── student_utils.py
+│   ├── StudentResultFileProcessing.py
+│   ├── students.txt
+│   ├── Time.py
+│   ├── TryExcept.py
+│   └── Var_data_types.py
 ├── Assignments/
 │   ├── My_Project/
 │   │   ├── assignments/
@@ -49,7 +95,7 @@ Class notes, lab exercises, assignments, and practice programs from the Advance 
 │   │   ├── desktop.ini
 │   │   └── Online Food Delivery System Senarios.ipynb
 │   ├── November(11)/
-│   │   ├── Class 14-11-26.ipynb
+│   │   ├── Classes.ipynb
 │   │   └── desktop.ini
 │   ├── October(10)/
 │   │   ├── Adv_OOPs.ipynb
