@@ -6,35 +6,35 @@ README = ROOT / "README.md"
 START = "<!-- BEGIN GENERATED CONTENTS -->"
 END = "<!-- END GENERATED CONTENTS -->"
 IGNORED_DIRECTORIES = {".git", ".venv", "__pycache__"}
+OVERVIEW_DIRECTORIES = ("APP", "Assignments", "Class", "Lab")
 
 
-def display_name(path: Path) -> str:
-    return path.name + ("/" if path.is_dir() else "")
-
-
-def build_tree(path: Path, prefix: str = "") -> list[str]:
-    entries = sorted(
-        (
-            entry
-            for entry in path.iterdir()
-            if entry.name != "README.md"
-            and not (entry.is_dir() and entry.name in IGNORED_DIRECTORIES)
-        ),
-        key=lambda entry: (entry.is_file(), entry.name.casefold()),
+def count_files(path: Path, suffix: str) -> int:
+    return sum(
+        1
+        for entry in path.rglob("*")
+        if entry.is_file()
+        and entry.suffix.casefold() == suffix
+        and not any(part in IGNORED_DIRECTORIES for part in entry.parts)
     )
-    lines = []
-    for index, entry in enumerate(entries):
-        is_last = index == len(entries) - 1
-        branch = "└── " if is_last else "├── "
-        lines.append(f"{prefix}{branch}{display_name(entry)}")
-        if entry.is_dir():
-            child_prefix = prefix + ("    " if is_last else "│   ")
-            lines.extend(build_tree(entry, child_prefix))
+
+
+def build_overview() -> list[str]:
+    lines = ["."]
+    directories = [ROOT / name for name in OVERVIEW_DIRECTORIES if (ROOT / name).is_dir()]
+    for index, directory in enumerate(directories):
+        branch = "└── " if index == len(directories) - 1 else "├── "
+        python_count = count_files(directory, ".py")
+        notebook_count = count_files(directory, ".ipynb")
+        lines.append(
+            f"{branch}{directory.name}/  "
+            f"({python_count} Python files · {notebook_count} notebooks)"
+        )
     return lines
 
 
 def update_readme() -> None:
-    contents = "\n".join(["```text", ".", *build_tree(ROOT), "```"])
+    contents = "\n".join(["```text", *build_overview(), "```"])
     readme = README.read_text(encoding="utf-8")
     start = readme.index(START) + len(START)
     end = readme.index(END, start)
